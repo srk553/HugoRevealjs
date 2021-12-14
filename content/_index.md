@@ -18,6 +18,8 @@ copy to the env path
 ```
 git clone https://github.com/dzello/reveal-hugo.git .\themes\reveal-hugo\
 ```
+
+can sometimes cause issues : copy the zip file and extract contents to the themes folder
 ---
 
 ## add the themes to the config.toml file
@@ -63,3 +65,49 @@ git push origin master
 
 ###### Create a netlify site and push the contents from git
 
+![Step 1](/1.png)
+
+---
+
+###### Create a netlify site and push the contents from git
+
+![Step 2](/2.png)
+
+---
+
+###### Create a netlify site and push the contents from git
+
+![Step 3](/3.png)
+
+---
+
+###### Create a netlify site and push the contents from git
+
+![Step 4](/4.png)
+
+---
+
+###### Create a netlify site and push the contents from git
+
+![Step 5](/5.png)
+
+---
+###### Create a netlify site and push the contents from git
+
+![Step 6](/6.png)
+
+---
+
+###### Create a netlify site and push the contents from git
+
+![Step 7](/7.png)
+
+---
+###### Create a netlify site and push the contents from git
+
+![Step 8](/8.png)
+
+---
+###### Create a netlify site and push the contents from git
+
+![Step 9](/9.png)
