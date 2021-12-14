@@ -3,7 +3,7 @@ title = "How to say hello"
 outputs = ["Reveal"]
 +++
 
-# Hugo with Revealjs Setup
+# Hugo - Revealjs 
 
 ---
 
@@ -14,12 +14,14 @@ copy to the env path
 
 ---
 
-## Install a revealjs hugo theme to the themes folder
+###### Install a revealjs hugo theme to the themes folder
+
 ```
-git clone https://github.com/dzello/reveal-hugo.git .\themes\reveal-hugo\
+ git clone https://github.com/dzello/reveal-hugo.git .\themes\reveal-hugo\
 ```
 
-can sometimes cause issues : copy the zip file and extract contents to the themes folder
+###### can sometimes cause issues : copy the zip file and extract contents to the themes folder
+
 ---
 
 ## add the themes to the config.toml file

@@ -9,3 +9,13 @@ theme = "reveal-hugo"
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[params.reveal_hugo]
+theme = "moon"
+#highlight_theme = "solarized-dark"
+slide_number = true
+transition = "concave"
+progress = true
+transition_speed = "slow"
+background_transition = "convex"
+#mouse_wheel = true
